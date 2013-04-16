@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MotionPlatformPlugin", "MotionPlatformPlugin\MotionPlatformPlugin.vcproj", "{4C509D05-DC4D-4A94-B396-FE1A6D6E29CD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FlightInputReplayPlugin", "FlightInputReplayPlugin\FlightInputReplayPlugin.vcproj", "{A61A1DB0-98D3-4ADE-9C31-E34FD8685A8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C509D05-DC4D-4A94-B396-FE1A6D6E29CD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4C509D05-DC4D-4A94-B396-FE1A6D6E29CD}.Debug|Win32.Build.0 = Debug|Win32
+		{4C509D05-DC4D-4A94-B396-FE1A6D6E29CD}.Release|Win32.ActiveCfg = Release|Win32
+		{4C509D05-DC4D-4A94-B396-FE1A6D6E29CD}.Release|Win32.Build.0 = Release|Win32
+		{A61A1DB0-98D3-4ADE-9C31-E34FD8685A8F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A61A1DB0-98D3-4ADE-9C31-E34FD8685A8F}.Debug|Win32.Build.0 = Debug|Win32
+		{A61A1DB0-98D3-4ADE-9C31-E34FD8685A8F}.Release|Win32.ActiveCfg = Release|Win32
+		{A61A1DB0-98D3-4ADE-9C31-E34FD8685A8F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
